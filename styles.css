@@ -1,13 +1,40 @@
 
 
 p {
-    color: blue;
+    color: rgb(173, 52, 102);
 }
 
 h1 {
-    color: rgb(0, 0, 0);
+    color: rgb(61, 23, 126);
 }
 
 body {
     background-color: beige;
 }
+
+.land_scape_bg {
+    align-items: center;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+
+}
+
+.portrait_bg {
+    align-items: center;
+    background-color: rgb(48, 48, 219);
+    display: flex;
+    justify-self: center;
+    height: 220px;
+
+}
+
+.circles {
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
